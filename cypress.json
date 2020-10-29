@@ -1,0 +1,15 @@
+{
+  "baseUrl": "http://localhost:8022/",
+  "watchForFileChanges": true,
+  "viewportWidth": 1220,
+  "viewportHeight": 1250,
+  "waitForAnimations": true,
+  "animationDistanceThreshold": 20,
+  "defaultCommandTimeout": 6000,
+  "execTimeout": 60000,
+  "pageLoadTimeout": 60000,
+  "requestTimeout": 15000,
+  "responseTimeout": 30000,
+  "video": false,
+  "failOnStatusCode": false
+}
